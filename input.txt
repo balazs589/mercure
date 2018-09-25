@@ -1,0 +1,22 @@
+#############################################################################
+Programozas 2. 2012. II. hazi feladat# 		#1. sor
+BGGUER, Berczedi Balazs				#2. sor
+
+#############################################################################
+-m4					#3. sor: modszer kivalasztasa opcionalis
+
+#############################################################################
+#http://hu.wikipedia.org/wiki/Merk%C3%BAr
+
+tmax=1e7, dt=1e4, x0=4.600e10, y0=0, vx0=0, vy0=5.898e4		#4. sor: indulas napkozel pontbol
+
+tmax=1e7, dt=1e4, x0=6.982e10, y0=0, vx0=0, vy0=3.886e4		#5. sor: indulas naptavol pontbol
+
+tmax=1.5e7, dt=1e4, x0=6e10, y0=-4e11, vx0=0, vy0=7e4		#6. sor:  fiktiv, pozitiv energiaju kezdeti feltetelek
+
+#############################################################################
+          		#kommentek 
+	  		#es ures sorok is kiszurve
+		                   
+#############################################################################
+
